@@ -12,6 +12,7 @@
 <p align="left"> 
   Linguagens 
 </p>
+
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
