@@ -9,7 +9,7 @@
   Ferramentas
 </p>
 
-![Intellij IDEA Community](https://img.shields.io/badge/-Intellij-IDEA-Community-333333?style=flat&logo=Intellij-IDEA-Community&logoColor=007396)
+![Intellij IDEA Community](https://img.shields.io/badge/-Intellij+IDEA+Community-333333?style=flat&logo=Intellij+IDEA+Community&logoColor=007396)
 
 <p align="left"> 
   Linguagens 
