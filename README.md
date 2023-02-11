@@ -6,11 +6,15 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Intellij IDEA Community , Visual Studio Code</strong>
+  Ferramentas <strong>Intellij IDEA Community , Visual Studio Code</strong>
 </p>
 
-**Aplicações e Dados**
+<p align="left">
+  Linguagens
+<strong>
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin&logoColor=007396)
+  </strong>
+  </p>
