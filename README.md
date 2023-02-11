@@ -6,8 +6,10 @@
 </p>
 
 <p align="left">
-  Ferramentas <strong>Intellij IDEA Community , Visual Studio Code</strong>
+  Ferramentas
 </p>
+
+![Intellij IDEA](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=Intellij&logoColor=007396)
 
 <p align="left"> 
   Linguagens 
