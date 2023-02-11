@@ -10,6 +10,7 @@
 </p>
 
 ![Intellij IDEA Community](https://img.shields.io/badge/-Intellij%20IDEA%20Community-333333?style=flat&logo=Intellij%20IDEA%20Community&logoColor=007396)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=Visual%20Studio%20Code&logoColor=007396)
 
 <p align="left"> 
   Linguagens 
